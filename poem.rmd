@@ -16,6 +16,12 @@ you, if you change any of this the git program will notice it and compromise you
 ## First Verse 
 <!--Put the first five lines of a poem by Lewis Carrol in this section!-->
 
+When midnight mists are creeping,      
+And all the land is sleeping,      
+Around me tread the mighty dead,      
+And slowly pass away.      
+Lo, warriors, saints, and sages,      
+      
 ## Second Verse
 <!--Put the first five lines of a poem by Robert Frost here!-->
 
@@ -24,3 +30,29 @@ you, if you change any of this the git program will notice it and compromise you
 
 ## Last Verse
 <!--Put a short poem you created using chatGPT of 20 to 30 lines,here!-->
+
+In the hush of dawn's first light,       
+Whispers dance on dew-kissed grass,      
+A symphony of day and night,       
+As shadows fade and moments pass.       
+       
+The trees awake, their leaves aglow,        
+With secrets held in gentle sway,        
+While rivers hum, their waters flow,       
+In a timeless, soothing ballet.       
+        
+The sun ascends, a golden sphere,          
+Embracing earth with tender grace,        
+Each creature stirs, the world draws near,       
+In this vast, enchanting space.        
+       
+Clouds drift like dreams across the sky,       
+Painting stories in shades of blue,         
+And as the world begins to sigh,         
+I find my heart entwined with you.        
+        
+So let us wander, hand in hand,       
+Through fields of hope and skies of chance,        
+Together, in this wondrous land,        
+Where every moment sparks romance.         
+         
